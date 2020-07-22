@@ -1,0 +1,25 @@
+{
+  "name": "url_shortener_front",
+  "version": "1.0.0",
+  "description": "Projeto complementar do [url_shortener](https://github.com/funcional-ssa/url_shortener).",
+  "main": "index.js",
+  "directories": {
+    "test": "tests"
+  },
+  "devDependencies": {
+    "create-elm-app": "^4.2.26"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/funcional-ssa/url_shortener_front.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/funcional-ssa/url_shortener_front/issues"
+  },
+  "homepage": "https://github.com/funcional-ssa/url_shortener_front#readme"
+}
