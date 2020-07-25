@@ -40,3 +40,15 @@ img {
   right: 20px;
   top: 20px;
 }
+
+.visible {
+  visibility: visible;
+}
+
+.invisible{
+  visibility: hidden;
+}
+
+.error {
+  color: #990000;
+}
